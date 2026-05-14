@@ -1,0 +1,4 @@
+# Organization-wide default community health files.
+# Changes here affect every repository in the org, so all edits are
+# owned by the build-managers team.
+* @quillmeetings/build-managers

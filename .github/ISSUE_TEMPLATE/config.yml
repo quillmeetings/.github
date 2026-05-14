@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Product support
+    url: https://quillmeetings.com/help
+    about: Questions or help with the Quill app — issues here are not monitored for support.
+  - name: Security issue
+    url: https://github.com/quillmeetings/.github/blob/main/SECURITY.md
+    about: Please report security issues privately. Do not open a public issue.
